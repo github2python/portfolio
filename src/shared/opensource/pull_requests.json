@@ -1,0 +1,179 @@
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOKaUol85edHaD",
+      "title": "Service for Forgot Password, Fixes #33",
+      "url": "https://github.com/we-festify/festify/pull/44",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43829421?v=4",
+        "url": "https://github.com/jindalujjwal0720",
+        "login": "jindalujjwal0720"
+      },
+      "createdAt": "2023-11-02T16:48:50Z",
+      "number": 44,
+      "changedFiles": 12,
+      "additions": 152,
+      "deletions": 45,
+      "baseRepository": {
+        "name": "festify",
+        "url": "https://github.com/we-festify/festify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146621257?v=4",
+          "login": "we-festify",
+          "url": "https://github.com/we-festify"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKaUol85eQVSs",
+      "title": "Added docs for organisation model",
+      "url": "https://github.com/we-festify/festify/pull/41",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43829421?v=4",
+        "url": "https://github.com/jindalujjwal0720",
+        "login": "jindalujjwal0720"
+      },
+      "createdAt": "2023-10-31T16:48:47Z",
+      "number": 41,
+      "changedFiles": 6,
+      "additions": 140,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "festify",
+        "url": "https://github.com/we-festify/festify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146621257?v=4",
+          "login": "we-festify",
+          "url": "https://github.com/we-festify"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKaUol85c_UDz",
+      "title": "Fix Issue #21: Added mailer service",
+      "url": "https://github.com/we-festify/festify/pull/32",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43829421?v=4",
+        "url": "https://github.com/jindalujjwal0720",
+        "login": "jindalujjwal0720"
+      },
+      "createdAt": "2023-10-17T08:50:25Z",
+      "number": 32,
+      "changedFiles": 5,
+      "additions": 87,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "festify",
+        "url": "https://github.com/we-festify/festify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146621257?v=4",
+          "login": "we-festify",
+          "url": "https://github.com/we-festify"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKaUol85cK9M-",
+      "title": "Issue #16 : Updated Events API Docs",
+      "url": "https://github.com/we-festify/festify/pull/17",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43829421?v=4",
+        "url": "https://github.com/jindalujjwal0720",
+        "login": "jindalujjwal0720"
+      },
+      "createdAt": "2023-10-07T13:51:25Z",
+      "number": 17,
+      "changedFiles": 2,
+      "additions": 275,
+      "deletions": 210,
+      "baseRepository": {
+        "name": "festify",
+        "url": "https://github.com/we-festify/festify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146621257?v=4",
+          "login": "we-festify",
+          "url": "https://github.com/we-festify"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKaUol85bp00X",
+      "title": "Issue #8: Added docs for Events API and Event Model",
+      "url": "https://github.com/we-festify/festify/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43829421?v=4",
+        "url": "https://github.com/jindalujjwal0720",
+        "login": "jindalujjwal0720"
+      },
+      "createdAt": "2023-10-02T09:21:16Z",
+      "number": 9,
+      "changedFiles": 2,
+      "additions": 373,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "festify",
+        "url": "https://github.com/we-festify/festify",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/146621257?v=4",
+          "login": "we-festify",
+          "url": "https://github.com/we-festify"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOBBiY485UTnKE",
+      "title": "Add your-name to Contributors list",
+      "url": "https://github.com/firstcontributions/first-contributions/pull/69343",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-06-30T07:39:09Z",
+      "number": 69343,
+      "changedFiles": 1,
+      "additions": 74,
+      "deletions": 88,
+      "baseRepository": {
+        "name": "first-contributions",
+        "url": "https://github.com/firstcontributions/first-contributions",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37713493?v=4",
+          "login": "firstcontributions",
+          "url": "https://github.com/firstcontributions"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJUCl6s5N4hty",
+      "title": "Added final styles and the travel itinerary system",
+      "url": "https://github.com/github2python/hackfest_2k23/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72038689?v=4",
+        "url": "https://github.com/github2python",
+        "login": "github2python"
+      },
+      "createdAt": "2023-04-09T05:46:00Z",
+      "number": 1,
+      "changedFiles": 218,
+      "additions": 59982,
+      "deletions": 8841,
+      "baseRepository": {
+        "name": "hackfest_2k23",
+        "url": "https://github.com/github2python/hackfest_2k23",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/72038689?v=4",
+          "login": "github2python",
+          "url": "https://github.com/github2python"
+        }
+      }
+    }
+  ],
+  "merged": 6,
+  "open": 0,
+  "totalCount": 7
+}
